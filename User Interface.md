@@ -1,4 +1,4 @@
-# Wireframe UX
+# User Interface
 
 Link de la interface de usuario (UI) creada en la plataforma Figma: https://www.figma.com/file/5k7ip2dX9ZMupz4lHw4mun/Abogabot?node-id=9%3A16
 
