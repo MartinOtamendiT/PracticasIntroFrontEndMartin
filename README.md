@@ -13,3 +13,10 @@ Descripción:
 - Al usuario le llegan correos de notificación para saber el avance de su proceso.
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
+
+***Prácticas:***
+- [Toma de requerimientos](./Requerimientos.pdf)
+- [Creación de un buyer persona](./Buyer%20Persona.pdf)
+- [Identificación del publico objetivo](./Público%20Objetivo%20Abogabot.jpg)
+- [Creación de Wireframe UX](./Wireframe%20UX.md)
+- [Creación de User Interface](./User%20Interface.md)
